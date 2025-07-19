@@ -10,7 +10,9 @@
 - Supports seeds, tools, water, fertilizer, and full-grown plants  
 - Timing-based system for consistent results  
 - Lightweight and optimized — no need to install Python to run it  
-- Delivered as a ready-to-use `.exe` file                                         d <img width="150" height="150" alt="output-onlinepngtools (1)" src="https://github.com/user-attachments/assets/9b129896-784a-4a1c-8631-dde4de2b0252" />
+- Delivered as a ready-to-use `.exe` file                                          
+<img width="150" height="150" alt="output-onlinepngtools (1)" src="https://github.com/user-attachments/assets/3cbf6efb-e094-4973-a057-c6f21cd72bc4" />
+
 
 ---
 
