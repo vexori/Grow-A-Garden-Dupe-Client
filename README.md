@@ -1,4 +1,5 @@
-# grow-a-garden-dupe-client<img width="30" height="30" alt="output-onlinepngtools" src="https://github.com/user-attachments/assets/31baa6e3-9159-4f30-9351-ab7e346aa9d3" />
+# grow-a-garden-dupe-client<img width="150" height="150" alt="output-onlinepngtools (1)" src="https://github.com/user-attachments/assets/9a9efeee-6b9e-455b-aaa4-f86e9738f67e" />
+
 
 
 
