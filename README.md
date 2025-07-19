@@ -1,4 +1,5 @@
-# grow-a-garden-dupe-client![grow-a-garden-roblox_1pfj 600](https://github.com/user-attachments/assets/448e79ba-c4df-4eea-b1ca-3a2bedd42bf9)
+# grow-a-garden-dupe-client<img width="30" height="30" alt="output-onlinepngtools" src="https://github.com/user-attachments/assets/31baa6e3-9159-4f30-9351-ab7e346aa9d3" />
+
 
 
 **Grow-A-Garden Dupe Client (Python)** 🌱 An automatic duplication system for Grow a Garden — written in Python!
