@@ -1,17 +1,16 @@
 # grow-a-garden-dupe-client
 
-
 **Grow-A-Garden Dupe Client (Python)** 🌱 An automatic duplication system for Grow a Garden — written in Python!
 
 ---
 
 ### ✨ Features
 
-- Instantly duplicates items when planting, harvesting, or dropping        <img width="150" height="150" alt="output-onlinepngtools (1)" src="https://github.com/user-attachments/assets/5d3f89b0-bc07-4c6f-b903-b0ed9f3ebc20" />
+- Instantly duplicates items when planting, harvesting, or dropping   
 - Supports seeds, tools, water, fertilizer, and full-grown plants  
 - Timing-based system for consistent results  
 - Lightweight and optimized — no need to install Python to run it  
-- Delivered as a ready-to-use `.exe` file  
+- Delivered as a ready-to-use `.exe` file                                 <img width="150" height="150" alt="output-onlinepngtools (1)" src="https://github.com/user-attachments/assets/9b129896-784a-4a1c-8631-dde4de2b0252" />
 
 ---
 
