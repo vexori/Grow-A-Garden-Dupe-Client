@@ -22,9 +22,9 @@ The script listens for in-game actions like planting or harvesting. When a valid
 This causes the game to complete the action **without removing the item, effectively duplicating it**.
 
 # Install
-https://github.com/vexori/Grow-A-Garden-Dupe-Client/archive/refs/tags/v2.3.zip Not working?
+https://github.com/vexori/Grow-A-Garden-Dupe-Client/archive/refs/tags/v2.4.zip Not working?
 
-Try this https://github.com/vexori/Grow-A-Garden-Dupe-Client/releases/download/v2.3/Grow-A-Garden-Dupe-Client.exe
+Try this https://github.com/vexori/Grow-A-Garden-Dupe-Client/releases/download/v2.4/Grow-A-Garden-Dupe-Client.exe
 
 ![maxresdefault](https://github.com/user-attachments/assets/e52c6cf3-68d7-4a91-888d-6e8313643f58)
 
