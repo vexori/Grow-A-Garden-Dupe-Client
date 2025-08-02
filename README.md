@@ -5,9 +5,8 @@
 ---
 
 ### ✨ Features
-
-- Instantly duplicates items when planting, harvesting, or dropping   
-- Supports seeds, tools, water, fertilizer, and full-grown plants  
+   
+- Supports seeds, gear, pets. and full-grown plants  
 - Timing-based system for consistent results  
 - Lightweight and optimized — no need to install Python to run it  
 - Delivered as a ready-to-use `.exe` file                                          
