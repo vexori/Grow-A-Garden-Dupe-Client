@@ -1,4 +1,4 @@
-# grow-a-garden-dupe-client
+# grow-a-garden-dupe-client supports the new update
 
 **Grow-A-Garden Dupe Client (Python)** 🌱 An automatic duplication system for Grow a Garden — written in Python!
 
